@@ -38,7 +38,7 @@ Built an interactive dashboard with Tableau Public, featuring:
   - 🐕‍🦺 **Ratings Distribution**: Horizontal bar chart for product ratings.
   - 🔄 **Repeat Purchases**: Pie chart summarizing customer loyalty.
 
-➡️ **Explore the Live Dashboard**: [**Tableau Dashboard**](<insert-your-tableau-public-link-here>)
+➡️ **Explore the Live Dashboard**: [**Tableau Dashboard**](<https://public.tableau.com/app/profile/meghana.vemuganti/viz/FetchtheFacts/Fur-tasticTrends>)
 
 ---
 
@@ -58,7 +58,7 @@ Built an interactive dashboard with Tableau Public, featuring:
    - Run all cells to reproduce the analysis.
 
 2. **Tableau Dashboard**:
-   - Visit the [**Tableau Public Dashboard**](<insert-your-tableau-public-link-here>) to explore insights interactively.
+   - Visit the [**Tableau Public Dashboard**](<https://public.tableau.com/app/profile/meghana.vemuganti/viz/FetchtheFacts/Fur-tasticTrends>) to explore insights interactively.
 
 ---
 
